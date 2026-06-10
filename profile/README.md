@@ -10,7 +10,7 @@ After Buy는 전자제품의 구매 정보, 보증기간, 영수증, 시리얼 �
 
 ---
 
-## Problem & Solution
+## 01. Problem & Solution
 
 ### Problem
 
@@ -27,7 +27,7 @@ After Buy는 전자제품 구매 이후의 관리 과정을 하나의 서비스 
 
 ---
 
-## Tech Stack
+## 02. Tech Stack
 
 ### Frontend
 
@@ -59,7 +59,7 @@ After Buy는 전자제품 구매 이후의 관리 과정을 하나의 서비스 
 
 ---
 
-## Main Features
+## 03. Main Features
 
 ### 제품 등록 및 관리
 
@@ -79,7 +79,7 @@ After Buy는 전자제품 구매 이후의 관리 과정을 하나의 서비스 
 
 ---
 
-## User Flow
+## 04. User Flow
 
 ```text
 제품 등록
@@ -97,19 +97,19 @@ OCR을 통한 제품 정보 및 구매 정보 추출
 
 ---
 
-## Architecture
+## 05. Architecture
 
 <img width="1535" height="1024" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/f352f155-7a29-454d-84f3-7a8b7e64e190" />
 
 ---
 
-## ERD
+## 06. ERD
 
 <img width="1700" height="1082" alt="ERD" src="https://github.com/user-attachments/assets/4bb7d62b-a61c-4df5-8a3d-e2ff4f593399" />
 
 ---
 
-## Key Highlights
+## 07. Key Highlights
 
 ### 마이크로서비스 기반 구조
 
@@ -133,7 +133,7 @@ OCR 처리는 AWS Lambda와 Amazon Textract를 활용하여 서버리스 방식�
 
 ---
 
-## Services
+## 08. Services
 
 ### Auth Service
 
@@ -157,7 +157,7 @@ OCR 처리는 AWS Lambda와 Amazon Textract를 활용하여 서버리스 방식�
 
 ---
 
-## Repositories
+## 09. Repositories
 
 | Repository                                                                                    | Description               |
 | --------------------------------------------------------------------------------------------- | ------------------------- |
@@ -172,7 +172,7 @@ OCR 처리는 AWS Lambda와 Amazon Textract를 활용하여 서버리스 방식�
 
 ---
 
-## Team
+## 10. Team
 
 <table>
   <tr>
